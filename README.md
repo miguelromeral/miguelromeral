@@ -21,9 +21,6 @@
 <img src="https://images.credly.com/size/340x340/images/807898ab-9f66-4387-a5e8-b0b59977f8c0/MCSE-Cloud-Platform-Infrastructure-2018.png" height="100">
 </a>
 
-[![Lenguages Más Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelromeral&layout=donut-vertical&theme=dark&bg_color=35,0b0ca7,000&text_color=04e5e7&langs_count=10)](https://github.com/miguelromeral)
-
-
 ## 📂 Repositorios destacados
 
 ### 🌐 Páginas Web
