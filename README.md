@@ -27,7 +27,7 @@
 
 [![RomerART (Front-End)](https://github-readme-stats.vercel.app/api/pin/?username=miguelromeral&repo=RomerART-Angular18&theme=dark&bg_color=35,0b0ca7,000&text_color=04e5e7)](https://github.com/miguelromeral/RomerART-Angular18)
 
-- **[🔒 RomerART (BackEnd)](https://github.com/miguelromeral/MiguelRomerART)** ![](https://img.shields.io/badge/.NET_Core-blueviolet): Parte Back-End de la aplicación en la que muestro mi arte.
+- **[RomerART (BackEnd)](https://github.com/miguelromeral/MiguelRomerART)** ![](https://img.shields.io/badge/.NET_Core-blueviolet): Parte Back-End de la aplicación en la que muestro mi arte, desplegado en Azure, autommatizado con GitHub Actions.
 - **[🔒 Oposómetro](https://github.com/miguelromeral/Oposometro)** ![](https://img.shields.io/badge/.NET_Core_MVC-blueviolet): Calculadora de resultados en función de las notas obtenidas en las pruebas de Oposición a Educación Infantil en Madrid 2024.
 - **[🔒 EurovisionMR](https://github.com/miguelromeral/EurovisionMR)** ![](https://img.shields.io/badge/.NET_Core_MVC-blueviolet): Plataforma para enviar votos (no oficiales) del festival de Eurovisión (2024 y 2023).
 
